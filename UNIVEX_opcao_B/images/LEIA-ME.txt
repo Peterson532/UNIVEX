@@ -1,0 +1,6 @@
+Adicione suas imagens nesta pasta com estes nomes e correspondências:
+- 1.jpg = Padaria e cafeteria
+- 2.jpg = Salão de beleza
+- 3.jpg = Oficina mecânica
+
+Se os arquivos forem .png ou .webp, altere a extensão nos atributos src de index.html e projetos.html.
