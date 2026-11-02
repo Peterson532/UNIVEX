@@ -1,0 +1,28 @@
+UNIVEX — VERSÃO B
+
+Esta pasta contém um site estático de múltiplas páginas.
+
+COMO TESTAR LOCALMENTE
+1. Extraia todos os arquivos do ZIP para uma mesma pasta.
+2. Abra index.html no navegador.
+3. Use o menu para navegar pelas páginas.
+
+ARQUIVOS
+- index.html: página inicial
+- sobre.html: sobre a UNIVEX
+- servicos.html: catálogo de serviços
+- projetos.html: portfólio conceitual
+- contato.html: formulário de contato
+- style.css: estilos compartilhados
+- script.js: menu móvel, efeitos suaves e formulário
+- config.js: configuração de contato (e-mail já definido)
+- images/: coloque aqui suas fotografias dos cards de projeto
+
+EMAIL
+O formulário prepara uma mensagem para univex.help@gmail.com usando o aplicativo de e-mail do visitante. Para envio sem aplicativo de e-mail, será necessária integração de backend/serviço de formulário.
+
+WHATSAPP
+O número ainda não está configurado. Edite config.js e preencha whatsapp com código do país + DDD + número, somente dígitos.
+
+IMAGENS
+Fotos dos projetos não foram incluídas; você pode adicioná-las manualmente em images/ com os nomes 1.jpg (padaria), 2.jpg (salão) e 3.jpg (oficina).
